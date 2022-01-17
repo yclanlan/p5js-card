@@ -19,7 +19,7 @@ var words = ["哈囉","期待嗎！","這個卡片","感覺需要","很努力看
 
 function setup() {	
   
-    pixelDensity()
+    pixelDensity(1)
     
 	createCanvas(windowWidth, windowHeight);
   
